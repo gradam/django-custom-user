@@ -1,5 +1,5 @@
 # django-custom-user
-Simple template for adding custom user model that provides all the functionality the standard model provides to the django app.
+Simple template for adding custom user model that provides all the functionality that standard model provides but uses email field as the main authentication field instead of username field.
 
 # Steps:
 1. Put `custom_user` folder to root folder of your django_app.
